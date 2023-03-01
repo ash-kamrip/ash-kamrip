@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am ashu and thanks for taking the time to checkout my github profile :smile:
-- 🔭 I’m currently working on hacktoberfest challenges
+<!-- - 🔭 I’m currently working on hacktoberfest challenges --> 
 - 🌱 I’m currently learning about go and devops related stuff
 - 👯 I’m looking to collaborate on anything that would make me learn more about the devops principles.
 - 📫 reach me at `ashu.adhana@gmail.com` if you want me to help you out on a project
